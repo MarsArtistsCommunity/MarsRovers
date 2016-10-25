@@ -4,7 +4,7 @@
 ## Basic Rover 
 (this model was begun ~2008...its wheels ought to be enlarged and water tanks for radiation shielding ought to be added to the roof, among many other things...)
 
-Link to 340MB Dropbox file [here](https://www.dropbox.com/s/n7rq2ydwnekpczh/LER_underconstruction.000.mb?dl=0)
+Link to 340MB Dropbox file: https://www.dropbox.com/s/n7rq2ydwnekpczh/LER_underconstruction.000.mb?dl=0
 
 ![](https://github.com/MarsArtistsCommunity/MarsSurfaceVehicles/blob/master/Screen%20Shot%202016-10-22%20at%204.56.40%20PM.png)
 
@@ -14,7 +14,7 @@ Link to 340MB Dropbox file [here](https://www.dropbox.com/s/n7rq2ydwnekpczh/LER_
 
 
 
-**Early Draft 'Rock Hopper' Starter File **
+**Early Draft Rock Hopper Starter File **
 
 Dropbox file: https://www.dropbox.com/s/pdfhwu6xrrigw53/rock_hopper.000.ma?dl=0
 
@@ -22,7 +22,7 @@ Dropbox file: https://www.dropbox.com/s/pdfhwu6xrrigw53/rock_hopper.000.ma?dl=0
 
 
 
-**Early Draft 'Cargo Vehicle' Starter File**
+**Early Draft Cargo Vehicle Starter File**
 
 https://github.com/MarsArtistsCommunity/MarsSurfaceVehicles/blob/master/cargovehicle.000.mb
 
