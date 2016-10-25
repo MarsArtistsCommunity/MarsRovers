@@ -14,7 +14,7 @@ Link to 340MB Dropbox file [here](https://www.dropbox.com/s/n7rq2ydwnekpczh/LER_
 
 
 
-**Rock Hopper**
+**Early Draft 'Rock Hopper' Starter File **
 
 Dropbox file: https://www.dropbox.com/s/pdfhwu6xrrigw53/rock_hopper.000.ma?dl=0
 
@@ -22,11 +22,11 @@ Dropbox file: https://www.dropbox.com/s/pdfhwu6xrrigw53/rock_hopper.000.ma?dl=0
 
 
 
-**Cargo Vehicle**
-
-![](https://github.com/MarsArtistsCommunity/MarsSurfaceVehicles/blob/master/vehilce5_maya5.png)
+**Early Draft 'Cargo Vehicle' Starter File**
 
 https://github.com/MarsArtistsCommunity/MarsSurfaceVehicles/blob/master/cargovehicle.000.mb
+
+![](https://github.com/MarsArtistsCommunity/MarsSurfaceVehicles/blob/master/vehilce5_maya5.png)
 
 
 
