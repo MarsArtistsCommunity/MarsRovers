@@ -12,17 +12,17 @@ Link to 340MB Dropbox file: https://www.dropbox.com/s/n7rq2ydwnekpczh/LER_underc
 
 **Motorcycle**
 
-Dropbox File:
+Dropbox File: https://www.dropbox.com/s/cb8fu92va2hyz1l/Dirtbike_and_textures.zip?dl=0
 
-![](image)
+![](https://github.com/MarsArtistsCommunity/MarsSurfaceVehicles/blob/master/Screen%20Shot%202016-10-26%20at%203.34.36%20PM.png)
 
 
 
 **Early Draft Rock Hopper Starter File **
 
-Dropbox File: https://www.dropbox.com/s/pdfhwu6xrrigw53/rock_hopper.000.ma?dl=0
+Dropbox File: https://www.dropbox.com/s/diorxb0sh4zfgme/rock_hopper_starter.000.ma?dl=0
 
-![](https://github.com/MarsArtistsCommunity/MarsSurfaceVehicles/blob/master/rock_hopper_workfile_011_wheels.jpg)
+![](https://github.com/MarsArtistsCommunity/MarsSurfaceVehicles/blob/master/Screen%20Shot%202016-10-26%20at%204.45.16%20PM.png)
 
 
 
