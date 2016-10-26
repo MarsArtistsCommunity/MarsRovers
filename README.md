@@ -18,7 +18,7 @@ Dropbox File: https://www.dropbox.com/s/cb8fu92va2hyz1l/Dirtbike_and_textures.zi
 
 
 
-**Early Draft Rock Hopper Starter File **
+**Early Draft Rock Hopper Starter File**
 
 Dropbox File: https://www.dropbox.com/s/diorxb0sh4zfgme/rock_hopper_starter.000.ma?dl=0
 
