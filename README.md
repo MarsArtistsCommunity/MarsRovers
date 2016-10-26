@@ -10,7 +10,7 @@ Link to 340MB Dropbox file: https://www.dropbox.com/s/n7rq2ydwnekpczh/LER_underc
 
 
 
-**Motorcycle**
+**Motorcycle (rough mockup with advertising sponsors)**
 
 Dropbox File: https://www.dropbox.com/s/cb8fu92va2hyz1l/Dirtbike_and_textures.zip?dl=0
 
