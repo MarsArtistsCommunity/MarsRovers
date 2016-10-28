@@ -43,3 +43,4 @@ https://github.com/MarsArtistsCommunity/MarsSurfaceVehicles/blob/master/rover_st
 
 **Free NASA Space Exploration Vehicle Model:**
 https://nasa3d.arc.nasa.gov/detail/nmss-sev
+![](https://github.com/MarsArtistsCommunity/MarsSurfaceVehicles/blob/master/MMSEV_428x321.png)
