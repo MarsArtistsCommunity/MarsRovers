@@ -39,7 +39,7 @@ https://github.com/MarsArtistsCommunity/MarsSurfaceVehicles/blob/master/cargoveh
 https://github.com/MarsArtistsCommunity/MarsSurfaceVehicles/blob/master/rover_starter.000.ma
 
 
-#ADDITIONAL RESOURCES
+# ADDITIONAL RESOURCES:
 
 **Free NASA Space Exploration Vehicle Model:**
 https://nasa3d.arc.nasa.gov/detail/nmss-sev
